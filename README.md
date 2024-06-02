@@ -82,15 +82,10 @@
 
 ## 📊 GitHub Stats
 
-![Suja's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujalsinh12345&show_icons=true&theme=radical)
+![Sujal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sujalsinh12345&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalsinh12345&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🏆 Trophies
 ![trophy](https://github-profile-trophy.vercel.app/?username=Sujalsinh12345&theme=onedark)
 
-## 🚀 GitHub Activity
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Sujalsinh12345&theme=react-dark)
-
-<!--
-**yourusername/yourusername** is a ✨ special
