@@ -1,5 +1,5 @@
 # Hi there, I'm Sujalsinh Gohel 👋
-![image](https://github.com/user-attachments/assets/775d7c69-5fa3-432f-88ca-333a3852f833)
+![](https://komarev.com/ghpvc/?username=Sujalsinh12345)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalsinh12345&theme=tokyonight)
 <br>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sujalsinh12345&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
