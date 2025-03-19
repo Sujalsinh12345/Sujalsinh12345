@@ -1,4 +1,10 @@
 # Hi there, I'm Sujalsinh Gohel 👋
+![image](https://github.com/user-attachments/assets/775d7c69-5fa3-432f-88ca-333a3852f833)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalsinh12345&theme=tokyonight)
+<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sujalsinh12345&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+
 
 <p align="center">
   <video align="center" loop width=100% src="https://github.com/Sujalsinh12345/Sujalsinh12345/assets/91388825/32ba355f-583d-4e99-ba1d-364e51bc0bd6"></video> 
