@@ -2,7 +2,9 @@
 <p align="center">
   <video align="center" loop width=100% src="https://github.com/Sujalsinh12345/Sujalsinh12345/assets/91388825/32ba355f-583d-4e99-ba1d-364e51bc0bd6"></video> 
 </p>
+
 ![](https://komarev.com/ghpvc/?username=Sujalsinh12345)
+
 ## 🛠 Primary Tech Stack
 
 ### Programming Languages
