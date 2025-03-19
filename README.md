@@ -1,15 +1,8 @@
 # Hi there, I'm Sujalsinh Gohel 👋
-![](https://komarev.com/ghpvc/?username=Sujalsinh12345)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sujalsinh12345&theme=tokyonight)
-<br>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Sujalsinh12345&theme=blueberry&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-
 <p align="center">
   <video align="center" loop width=100% src="https://github.com/Sujalsinh12345/Sujalsinh12345/assets/91388825/32ba355f-583d-4e99-ba1d-364e51bc0bd6"></video> 
 </p>
-
+![](https://komarev.com/ghpvc/?username=Sujalsinh12345)
 ## 🛠 Primary Tech Stack
 
 ### Programming Languages
